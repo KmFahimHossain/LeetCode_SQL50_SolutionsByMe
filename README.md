@@ -1,6 +1,6 @@
 # LeetCode_SQL50_SolutionsByMe
 
-In this repository, I will try to solve the 50 SQL selected by LeetCode.
+In this repository, I will try to solve the 50 SQL questions selected by LeetCode.
 
 Problem set link : https://leetcode.com/studyplan/top-sql-50/
 
