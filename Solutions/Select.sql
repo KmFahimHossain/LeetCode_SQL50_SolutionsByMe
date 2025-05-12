@@ -32,3 +32,5 @@ ORDER BY author_id ASC;
 SELECT tweet_id
 FROM Tweets
 WHERE LENGTH(content) > 15;
+
+-- Date: 11.5.25
